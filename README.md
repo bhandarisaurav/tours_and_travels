@@ -1,2 +1,2 @@
-# tours_and_travels
+# Tours and Travels
 Design template for Tours and Travel application
