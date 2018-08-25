@@ -60,7 +60,7 @@ p {
 
 .border-radius {
     border-radius: 0 !important;
-    border-color: #60c9eb;
+    border-color: #0084ff;
     height: 45px;
 }
 
@@ -104,7 +104,7 @@ p:hover {
 /*navbar*/
 .navbar-default .navbar-brand {
     border: 1px solid transparent;
-    color: #60c9eb;
+    color: #0084ff;
     font-size: 33px;
     padding: 10px 0;
     height: auto;
@@ -122,7 +122,7 @@ ul.nav.navbar-nav.navbar-right {
 }
 
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
-    color: #60c9eb;
+    color: #0084ff;
 }
 
 .navbar-default {
@@ -134,7 +134,7 @@ ul.nav.navbar-nav.navbar-right {
 }
 
 .navbar-default .navbar-nav > li > a {
-    color: #60c9eb;
+    color: #0084ff;
     padding-right: 20px;
     padding-left: 20px;
     border: 1px solid transparent;
@@ -145,11 +145,11 @@ ul.nav.navbar-nav.navbar-right {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-    color: #60c9eb;
+    color: #0084ff;
 }
 
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
-    color: #60c9eb;
+    color: #0084ff;
     background: #e8f9ff;
 }
 
@@ -159,7 +159,7 @@ ul.nav.navbar-nav.navbar-right {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-    color: #60c9eb;
+    color: #0084ff;
     background: #e8f9ff;
 }
 
@@ -245,7 +245,7 @@ ul.nav.navbar-nav.navbar-right {
 }
 
 .custom-button {
-    background: #60c9eb;
+    background: #0084ff;
     color: #fff;
     width: 100%;
     text-align: center;
@@ -284,7 +284,7 @@ ul.nav.navbar-nav.navbar-right {
 .icon {
     padding: 20px 0;
     font-size: 35px;
-    color: #60c9eb;
+    color: #0084ff;
 }
 
 .offer-item h3 {
@@ -318,7 +318,7 @@ ul.nav.navbar-nav.navbar-right {
 
 .visit .owl-theme .owl-controls .owl-nav [class*=owl-] {
     background: #fff;
-    color: #60c9eb;
+    color: #0084ff;
     font-size: 25px;
 }
 
@@ -332,7 +332,7 @@ ul.nav.navbar-nav.navbar-right {
 
 .offering {
     float: right;
-    color: #60c9eb;
+    color: #0084ff;
     text-align: center;
     padding: 32px 0;
 }
@@ -355,17 +355,17 @@ ul.nav.navbar-nav.navbar-right {
 }
 
 .price-btn {
-    background: #60c9eb;
+    background: #0084ff;
     color: #fff;
-    border-color: #60c9eb;
+    border-color: #0084ff;
     text-transform: capitalize;
     margin: 20px;
 }
 
 .price-btn:hover {
-    color: #60c9eb;
+    color: #0084ff;
     background-color: #fff;
-    border-color: #60c9eb;
+    border-color: #0084ff;
 }
 
 /*=================================================
@@ -424,7 +424,7 @@ ul.nav.navbar-nav.navbar-right {
 }
 
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
-    background: #60c9eb;
+    background: #0084ff;
 }
 
 .owl-theme .owl-dots .owl-dot span {
@@ -440,7 +440,7 @@ ul.nav.navbar-nav.navbar-right {
 
 .brand-logo {
     font-size: 33px;
-    color: #60c9eb;
+    color: #0084ff;
 }
 
 a.brand-logo span {
@@ -448,7 +448,7 @@ a.brand-logo span {
 }
 
 a.brand-logo:focus, a.brand-logo:hover {
-    color: #60c9eb;
+    color: #0084ff;
     text-decoration: none;
 }
 
@@ -459,9 +459,9 @@ a.brand-logo:focus, a.brand-logo:hover {
 }
 
 .custom-sub-btn {
-    background-color: #60c9eb;
+    background-color: #0084ff;
     color: #fff;
-    border-color: #60c9eb;
+    border-color: #0084ff;
     transition: all .4s ease-in-out;
 }
 
@@ -488,7 +488,7 @@ a.brand-logo:focus, a.brand-logo:hover {
 }
 
 .social-icon a {
-    color: #60c9eb;
+    color: #0084ff;
 }
 
 .social-icon a:hover {
@@ -498,7 +498,7 @@ a.brand-logo:focus, a.brand-logo:hover {
 footer {
     text-align: center;
     padding: 20px;
-    background: #60c9eb;
+    background: #0084ff;
 }
 
 footer a {
