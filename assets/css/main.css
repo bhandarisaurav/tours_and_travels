@@ -1,3 +1,4 @@
+
 @import url(http://fonts.googleapis.com/css?family=Roboto:100,400,700);
 @import url(http://fonts.googleapis.com/css?family=Roboto+Slab);
 
@@ -24,14 +25,12 @@ body {
 
 .owl-prev:before {
     content: "\f3d2";
-    font-family: sans-serif;
-
+    font-family: 'ionicons', sans-serif;
 }
 
 .owl-next:before {
     content: "\f3d3";
-    font-family: sans-serif;
-
+    font-family: "ionicons", sans-serif;
 }
 
 .section-title {
@@ -94,7 +93,9 @@ p:hover {
     box-shadow: none;
 }
 
+
 /*navbar*/
+
 .navbar-default .navbar-brand {
     border: 1px solid transparent;
     color: #0084ff;
