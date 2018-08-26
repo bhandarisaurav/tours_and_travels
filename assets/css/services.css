@@ -25,7 +25,7 @@ ul.features-list {
 
 ul.features-list li:before {
     content: "\f24e";
-    font-family: 'ionicons', serif;
+    font-family:  serif;
     color: #60c9eb;
     margin-left: -25px;
     padding-right: 10px;
