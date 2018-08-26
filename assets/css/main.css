@@ -172,17 +172,14 @@ ul.nav.navbar-nav.navbar-right {
     padding: 0;
     border: 0;
     overflow-x: hidden;
-    background: transparent;
-    background-image: url('../images/header.png');
-    background-repeat: no-repeat;
+    background: transparent url('../images/header.png') no-repeat;
     background-size: cover;
 
 }
 
 .slider-item {
     background-size: inherit;
-    background-position: left bottom;
-    background-repeat: no-repeat;
+    background: no-repeat left bottom;
 }
 
 .inner-intro {

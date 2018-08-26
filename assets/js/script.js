@@ -13,15 +13,16 @@ $('a[href*=#]:not([href=#])').click(function () {
         }
     }
 });
-
+// Deerwalk Institute of Technology Jaya Bageshwori Road, Kathmandu 44600, Nepal
+// Latitude: 27.712138 | Longitude: 85.342559
 
 $(document).ready(function () {
     //googleMap
 
     function initialize() {
         var mapProp = {
-            center: new google.maps.LatLng(24.909438, 91.833799),
-            zoom: 18,
+            center: new google.maps.LatLng(27.712138,85.342559),
+            zoom: 17,
             mapTypeId: google.maps.MapTypeId.ROADMAP
         };
         var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);

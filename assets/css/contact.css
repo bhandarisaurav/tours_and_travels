@@ -29,7 +29,7 @@
 }
 
 .contact:hover {
-    background: #60C9EB;
+    background: #0084ff;
 }
 
 .contact:hover .contact-icon, .contact:hover .contact-name, .contact:hover .contact-detail {
@@ -37,7 +37,7 @@
 }
 
 .contact-icon {
-    color: #60C9EB;
+    color: #0084ff;
     font-size: 40px;
 }
 

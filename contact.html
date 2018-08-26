@@ -15,10 +15,18 @@
     <link rel="stylesheet" href="assets/css/main.css">
     <link rel="stylesheet" href="assets/css/section.css">
     <link rel="stylesheet" href="assets/css/contact.css">
-        
-	<script
-		src="http://maps.googleapis.com/maps/api/js">
-	</script>
+
+        <script>
+            function myMap() {
+                var mapProp= {
+                    center:new google.maps.LatLng(27.712138,85.342559),
+                    zoom:1,
+                };
+                var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+            }
+        </script>
+
+        <script src="https://maps.googleapis.com/maps/api/js?v=3&callback=initGmaps"></script>
 </head>
 <body>
 
@@ -154,8 +162,8 @@
 							Email Address
 						</div>
 						<div class="contact-detail">
-							info@deerwalk.com <br>
-							<a href="http://www.demo.theme.deerwalk.com">www.demo.theme.deerwalk.com</a>
+							info@xyzn .com <br>
+							<a href="http://www.demo.theme.deerwalk.com">www.xyz.com</a>
 						</div>
 					</div> 
 				</div> 
