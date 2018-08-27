@@ -16,6 +16,17 @@
     <link rel="stylesheet" href="assets/css/mega-menu.css">
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
 
+    <script type="text/javascript">
+        $(document).ready(function() {
+            jQuery(document).ready(function(){
+                $(".dropdown").hover(
+                    function() { $('.dropdown-menu', this).stop().fadeIn("fast");
+                    },
+                    function() { $('.dropdown-menu', this).stop().fadeOut("fast");
+                    });
+            });
+        });
+    </script>
 </head>
 <body>
 <!--<nav class="navbar navbar-default navbar-fixed-top">-->
